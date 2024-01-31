@@ -1,0 +1,12 @@
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/bin/Debug/net7.0/service.transport.common.deps.json
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/bin/Debug/net7.0/service.transport.common.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/bin/Debug/net7.0/service.transport.common.pdb
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/service.transport.common.csproj.AssemblyReference.cache
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/service.transport.common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/service.transport.common.AssemblyInfoInputs.cache
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/service.transport.common.AssemblyInfo.cs
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/service.transport.common.csproj.CoreCompileInputs.cache
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/service.transport.common.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/refint/service.transport.common.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/service.transport.common.pdb
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/Debug/net7.0/ref/service.transport.common.dll

@@ -1,0 +1,17 @@
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/bin/Debug/net7.0/service.transport.business.deps.json
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/bin/Debug/net7.0/service.transport.business.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/bin/Debug/net7.0/service.transport.business.pdb
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/bin/Debug/net7.0/service.transport.common.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/bin/Debug/net7.0/service.transport.data.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/bin/Debug/net7.0/service.transport.common.pdb
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/bin/Debug/net7.0/service.transport.data.pdb
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.csproj.AssemblyReference.cache
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.AssemblyInfoInputs.cache
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.AssemblyInfo.cs
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.csproj.CoreCompileInputs.cache
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.csproj.CopyComplete
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/refint/service.transport.business.dll
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/service.transport.business.pdb
+/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/Debug/net7.0/ref/service.transport.business.dll

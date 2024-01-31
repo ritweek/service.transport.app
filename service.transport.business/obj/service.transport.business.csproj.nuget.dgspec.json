@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/service.transport.business.csproj": {}
+  },
+  "projects": {
+    "/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/service.transport.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/service.transport.business.csproj",
+        "projectName": "service.transport.business",
+        "projectPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/service.transport.business.csproj",
+        "packagesPath": "/Users/ritweekranjan/.nuget/packages/",
+        "outputPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.business/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ritweekranjan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/service.transport.common.csproj": {
+                "projectPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/service.transport.common.csproj"
+              },
+              "/Users/ritweekranjan/Projects/service.transport.api/service.transport.data/service.transport.data.csproj": {
+                "projectPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.data/service.transport.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/service.transport.common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/service.transport.common.csproj",
+        "projectName": "service.transport.common",
+        "projectPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/service.transport.common.csproj",
+        "packagesPath": "/Users/ritweekranjan/.nuget/packages/",
+        "outputPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ritweekranjan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ritweekranjan/Projects/service.transport.api/service.transport.data/service.transport.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.data/service.transport.data.csproj",
+        "projectName": "service.transport.data",
+        "projectPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.data/service.transport.data.csproj",
+        "packagesPath": "/Users/ritweekranjan/.nuget/packages/",
+        "outputPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ritweekranjan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/service.transport.common.csproj": {
+                "projectPath": "/Users/ritweekranjan/Projects/service.transport.api/service.transport.common/service.transport.common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
