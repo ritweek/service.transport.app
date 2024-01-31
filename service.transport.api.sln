@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.8
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service.transport.common", 
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F080DC23-8D05-4BFD-9C81-E1D922105B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service.transport.test", "..\service.transport.test\service.transport.test.csproj", "{810C486C-F51E-4F2F-8C52-EC21A5B0D1BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service.transport.test", "service.transport.test\service.transport.test.csproj", "{810C486C-F51E-4F2F-8C52-EC21A5B0D1BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
