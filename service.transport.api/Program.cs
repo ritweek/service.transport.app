@@ -42,6 +42,8 @@ public class Program
         // Register your services and repositories here
         services.AddScoped<ITransportService, TransportService>();
         services.AddScoped<ITransportRepo, TransportRepo>();
+        services.AddScoped<IBookingRepository, BookingRepository>();
+        services.AddScoped<IBookingService, BookingService>();
     }
 
 

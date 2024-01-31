@@ -6,6 +6,7 @@ namespace service.transport.data;
 public class TransportDbContext : DbContext
 {
     public DbSet<TransportationOption> TransportationOptions { get; set; }
+    public DbSet<Booking> Bookings { get; set; }
 
     public TransportDbContext(DbContextOptions<TransportDbContext> options)
         : base(options)
@@ -88,7 +89,7 @@ public class TransportDbContext : DbContext
             //Time = TimeSpan.Parse("17:00:00")
         });
 
-        base.OnModelCreating(modelBuilder);
+        //base.OnModelCreating(modelBuilder);
     }
 }
 
