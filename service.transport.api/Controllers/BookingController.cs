@@ -1,5 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
+using service.transport.business;
+using service.transport.common.Entity;
 
 namespace service.transport.api.Controllers
 {
